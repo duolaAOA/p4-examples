@@ -1,4 +1,4 @@
-## Implementing Basic Forwarding
+## Implementing Basic Tunneling
 
 > [Implementing Basic Tunneling](https://github.com/p4lang/tutorials/tree/master/exercises/basic_tunnel)
 
