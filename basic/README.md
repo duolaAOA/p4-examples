@@ -1,6 +1,6 @@
 ## Implementing Basic Forwarding
 
-> [Implement L3 forwarding](https://github.com/p4lang/tutorials/tree/master/exercises/basic) 三层转发实验
+> [Implement L3 forwarding](https://github.com/p4lang/tutorials) 三层转发实验
 
 ### reference
 - [P4编程理论与实践——理论篇](https://www.sdnlab.com/22466.html)
